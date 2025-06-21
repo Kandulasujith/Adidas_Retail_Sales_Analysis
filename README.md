@@ -28,8 +28,7 @@ To analyze Adidas retail sales data across different regions, product categories
 ---
 
 ##  Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
+![Dashboad_Screehshot](https://github.com/user-attachments/assets/744f34d0-9dfc-4da0-8388-3855997e6d5b)
 
 ---
 
