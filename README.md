@@ -10,9 +10,9 @@ To analyze Adidas retail sales data across different regions, product categories
 ---
 
 ##  Files Included
-- `Adidas_Sales_Analysis.pbix` – Power BI Dashboard file
-- `adidas_sales_data.csv` – Dataset used for analysis
-- `Dashboard_Screenshot.png` – Dashboard screenshot preview
+- `Adidas Retail Project.pbix` – Power BI Dashboard file
+- `Adidas_Sales_Dataset.csv` – Dataset used for analysis
+- `Dashboard image.png` – Dashboard screenshot preview
 
 ---
 
@@ -42,6 +42,7 @@ To analyze Adidas retail sales data across different regions, product categories
 
 ##  Key Insights
 - **California** leads in total sales across most product categories.
+- **top 3 products** contributing 60+ revenue
 - **Men’s Athletic Footwear** and **Women’s Street Footwear** are top-performing categories.
 - **Amazon, Walmart, and Foot Locker** each contribute over 25% of total retailer profits.
 - **In-store sales** outperform online and outlet methods significantly.
